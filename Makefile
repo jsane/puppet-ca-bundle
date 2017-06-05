@@ -1,4 +1,4 @@
-PATH        := /opt/puppetlabs/puppet/bin:/bin:/usr/bin:/usr/local/bin
+PATH        := /bin:/usr/bin:/usr/local/bin
 SHELL       := /bin/sh
 OPENSSL     := openssl
 CAT         := cat
